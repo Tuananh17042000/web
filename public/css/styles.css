@@ -1,0 +1,100 @@
+/*header*/
+header{
+    background: #1c1c1c;
+}
+.top-header{
+    border-bottom: solid gray 1px;
+}
+.logo{
+    color: #fff;
+    font-size: 30px;
+}
+.nav-item{
+    padding: 25px;
+}
+.navbar-nav .nav-link.active, .navbar-nav .show>.nav-link{
+color:  orange;
+}
+.main-header{
+    padding: 300px;
+    color: #fff;
+    text-align: center;
+    background: url(../images/mainheader.jpg);
+    background-size: cover;
+}
+.PURCHASE{
+    color: orange;
+    background: #1c1c1c;
+    text-decoration: none;
+    border: solid orange 2px;
+    padding:10px 30px;
+}
+.SEEDEMOS{
+    color: #fff;
+    background: #1c1c1c;
+    text-decoration: none;
+    border: solid #fff 2px;
+    padding:10px 30px;
+}
+/*content*/ 
+.items:hover{
+    opacity: 0.3;
+}
+/*top*/
+.top-content{
+    padding: 100px;
+    background: url(../images/bgtopcontent.png);
+    background-size: cover;
+}
+/*mid*/
+.mid-content{
+    background: #1c1c1c;
+}
+.main-mid{
+    text-align: center;
+    color: #fff;
+    padding: 100px;
+} 
+/*bot*/
+.bot-content{
+    background: #1c1c1c;
+    padding: 100px;
+}   
+.bot-content h1{
+    color: #fff;
+    padding: 50px;
+    text-align: center;
+}
+.bot-content h5{
+    color: #707570;
+    border-bottom: solid #fff 2px;
+    text-align: left;
+}
+.SUBSCRIBE{
+    color: #fff;
+    text-decoration: none;
+    border: solid #fff 2px;
+    padding:10px 30px;
+}
+.bot-content p{
+    color: #fff;
+    padding-left: 100px;
+    font-size: 10px;
+    text-align: left;
+}
+footer{
+    text-align: left;
+    background: #1c1c1c;
+    color: #fff;
+    padding: 70px;
+}
+.TermsofService{
+    text-decoration: none;
+    border-bottom: #fff solid 2px;
+    color: #fff;
+}
+.PrivacyPolicy{
+    text-decoration: none;
+    border-bottom: #fff solid 2px;
+    color: #fff;
+}
